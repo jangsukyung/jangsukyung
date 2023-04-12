@@ -13,3 +13,8 @@ ___
 - **Name : Jang SuKyung**
 - **Birth : 1996.07.15**
 - **Gender : Male**
+
+
+### - Baekjoon📚
+___
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsukyung)](https://solved.ac/jangsukyung)
