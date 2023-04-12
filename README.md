@@ -1,6 +1,6 @@
 ### - introduce 👋
 ___
-개발자
+꿈이 개발자
 
 
 ### - My Tech Stack 📚
@@ -11,3 +11,5 @@ ___
 ### - Information 📚
 ___
 - **Name : Jang SuKyung**
+- **Birth : 1996.07.15**
+- **Gender : Male**
