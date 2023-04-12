@@ -14,4 +14,5 @@ ___
 - **Name : Jang SuKyung**
 - **Birth : 1996.07.15**
 - **Gender : Male**
-
+- **MBTI : ESFJ**
+- **E-Mail : jangrich77@naver.com**
