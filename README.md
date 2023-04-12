@@ -10,4 +10,4 @@ ___
 
 ### Information 📚
 ___
-- Name : Jang SuKyung
+- **Name : Jang SuKyung**
