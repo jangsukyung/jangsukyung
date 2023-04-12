@@ -1,7 +1,8 @@
 ### - introduce 👋
 ___
-꿈이 개발자
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsukyung)](https://solved.ac/jangsukyung)
 
+개발자가 꿈
 
 ### - My Tech Stack 📚
 ___
@@ -14,7 +15,3 @@ ___
 - **Birth : 1996.07.15**
 - **Gender : Male**
 
-
-### - Baekjoon📚
-___
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsukyung)](https://solved.ac/jangsukyung)
