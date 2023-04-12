@@ -2,7 +2,7 @@
 ___
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsukyung)](https://solved.ac/jangsukyung)
 
-개발자가 꿈
+**개발자가 꿈**
 
 ### - My Tech Stack 📚
 ___
