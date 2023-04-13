@@ -4,7 +4,7 @@ ___
 
 **개발자가 꿈**
 
-**BLOG : https://jangcoding77.tistory.com/**
+- **BLOG : https://jangcoding77.tistory.com/**
 
 ### - My Tech Stack 📚
 ___
