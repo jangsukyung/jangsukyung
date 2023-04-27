@@ -13,7 +13,7 @@ ___
 
 ### - Information 📚
 ___
-- **Name : SuKyung Jang**
+- **Name : Sukyung Jang**
 - **Birth : 1996.07.15**
 - **Gender : Male**
 - **MBTI : ESFJ**
